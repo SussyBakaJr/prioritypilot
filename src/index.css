@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  /* Pastel Purple / Lavender / Lilac override for main brand theme unity */
+  --color-indigo-50: #faf5ff;   /* Very soft light purple */
+  --color-indigo-100: #f3e8ff;  /* Soft purple pastel */
+  --color-indigo-200: #e9d5ff;  /* Amethyst/lilac tint */
+  --color-indigo-300: #d8b4fe;  /* Light lavender accent */
+  --color-indigo-400: #c084fc;  /* Vibrant pastel purple */
+  --color-indigo-500: #a855f7;  /* High contrast accent purple */
+  --color-indigo-600: #9333ea;  /* Core brand deep purple */
+  --color-indigo-700: #7e22ce;  /* Deep amethyst/violet accent */
+  --color-indigo-800: #6b21a8;  /* Shadow purple */
+  --color-indigo-900: #581c87;  /* Dark royal violet */
+  --color-indigo-950: #2e1065;  /* Deep dark cosmic violet */
+
+  /* Pastel Pink / Rose / Cherry Blossom accents */
+  --color-purple-50: #fff1f2;   /* Softest pink pastel */
+  --color-purple-100: #ffe4e6;  /* Sweet pink pastel */
+  --color-purple-200: #fecdd3;  /* Soft pink accent */
+  --color-purple-300: #fda4af;  /* Light cherry blossom */
+  --color-purple-400: #fb7185;  /* Vibrant rose pink */
+  --color-purple-500: #f43f5e;  /* High contrast rose pink */
+  --color-purple-600: #e11d48;  /* Deep rose */
+  --color-purple-700: #be123c;  /* Warm magenta */
+  --color-purple-800: #9f1239;  /* Dark raspberry */
+  --color-purple-900: #881337;  /* Deep burgundy */
+  --color-purple-950: #4c0519;  /* Deep plum/dark wine */
+}

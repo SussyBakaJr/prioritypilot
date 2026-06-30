@@ -1,0 +1,6 @@
+{
+  "name": "PriorityPilot",
+  "description": "An intelligent productivity assistant that prioritizes your tasks, generates concrete subtasks, creates an hour-by-hour daily schedule, and coaches you through its reasoning using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
